@@ -142,50 +142,6 @@ Yes, you can set the non-working time. The user will not be able to book these h
 ### = Can I make Saturday or Sunday or both the days non-bookable? =
 Yes, you can set either or both of these days as non-bookable.
 
-## == Screenshots ==
-1. Fixed Period of 2 hours configuration
-2. Fixed Period of 2 hours
-3. Fixed Period of 90 mins configuration
-4. Fixed Period of 90 mins
-5. Fixed Period of 2 days configuration
-6. Fixed Period of 2 days
-6. Fixed Period of 6 months configuration
-8. Fixed Period of 6 months
-9. Calendar range configuration
-10. Calendar range
-11. Non-working hours and days
-12. Crt page
-13. Booking Order details
-
-## == About dgc_network ==
-
-dgc_network is specialized in providing the most secure, stable, feature-rich and intuitive woocommerce extensions. We take pride in ourselves for having helped businesses across 55+ countries to propel to the next level.
-We are one of the top vendors specialized in the area of woocommerce shipping plugins at XAdapter.com and have over 50,000 active customers.
-Our products have been evolving with real-time requirements from customers. And, we believe that great products happen by continually listening to the needs of our customers.
-
-Our other Pro Plugins :
-
--<a href="//www.xadapter.com/product/woocommerce-ups-shipping-plugin-with-print-label/">WooCommerce UPS Shipping Plugin with Print Label</a>
--<a href="//www.xadapter.com/product/woocommerce-fedex-shipping-plugin-with-print-label/">WooCommerce FedEx Shipping Plugin with Print Label</a>
--<a href="//www.xadapter.com/product/woocommerce-table-rate-shipping-pro-plugin/">WooCommerce Table Rate Shipping Pro Plugin</a>
--<a href="//www.xadapter.com/product/estimated-delivery-date-plugin-woocommerce/">Estimated Delivery Date Plugin for WooCommerce</a>
--<a href="//www.xadapter.com/product/woocommerce-canada-post-shipping-plugin-with-print-label/">WooCommerce Canada Post Shipping Plugin with Print Label</a>
--<a href="//www.xadapter.com/product/woocommerce-shipment-tracking-pro/">WooCommerce Shipment Tracking Pro</a>
--<a href="//www.xadapter.com/product/multiple-carrier-shipping-plugin-woocommerce/">Multi-Carrier Shipping Plugin for WooCommerce</a>
--<a href="//www.pluginhive.com/product/woocommerce-royal-mail-shipping-with-tracking/">WooCommerce Royal Mail Shipping with Tracking</a>
-
-Our other Free Plugins :
-
--<a href="//wordpress.org/plugins/ups-woocommerce-shipping-method/">UPS WooCommerce Shipping Method Plugin</a>
--<a href="//wordpress.org/plugins/multi-carrier-shipping-for-woocommerce/">Multi-Carrier Shipping Plugin for WooCommerce</a>
--<a href="//wordpress.org/plugins/fedex-woocommerce-shipping-method/">Fedex WooCommerce Shipping Method Plugin</a>
--<a href="//wordpress.org/plugins/estimated-delivery-woocommerce/">WooCommerce Estimated Delivery Date and Time Plugin</a>
--<a href="//wordpress.org/plugins/weight-country-woocommerce-shipping/">WooCommerce Shipping Pro with Table Rate</a>
--<a href="//wordpress.org/plugins/canada-post-woocommerce-shipping/">WooCommerce Canada Post Shipping</a>
--<a href="//wordpress.org/plugins/woo-shipment-tracking-order-tracking/">WooCommerce Shipment Tracking Plugin</a>
--<a href="//wordpress.org/plugins/dgc-royal-mail-woocommerce-shipping/">Woocommerce Royal Mail Shipping</a>
-
 ## == Upgrade Notice ==
-
 ### = 1.0.0 =
 * Initial version of plugin.
