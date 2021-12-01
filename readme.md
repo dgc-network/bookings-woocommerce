@@ -1,4 +1,4 @@
-###=== Bookings and Appointments For WooCommerce ===
+## Bookings and Appointments For WooCommerce ===
 Contributors: dgc_network
 Version: 1.3.2
 Tags: woocommerce bookings, woocommerce booking plugin, woocommerce appointments, woocommerce booking & appointment plugin, woocommerce booking calendar
