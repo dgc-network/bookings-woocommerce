@@ -1,4 +1,4 @@
-## Bookings and Appointments For WooCommerce ===
+# === Bookings and Appointments For WooCommerce ===
 Contributors: dgc_network
 Version: 1.3.2
 Tags: woocommerce bookings, woocommerce booking plugin, woocommerce appointments, woocommerce booking & appointment plugin, woocommerce booking calendar
@@ -8,9 +8,9 @@ Stable tag: 1.3.2
 
 Woocommerce Bookings and appointments is a powerful plugin that allows you to convert your time, products or services etc into a bookable resource.
 
-# == Description ==
+## == Description ==
 
-= Introduction =
+### = Introduction =
 
 Woocommerce Bookings and appointments from dgc_network is a powerful plugin that allows you to convert your time, products or services into a bookable resource.
 
@@ -112,37 +112,37 @@ Now bookings PRO comes with Booking Assets Feature : Bookings Assets are like gl
 Set up Guide: <a href="http://pluginhive.com/guide-woocommerce-bookings-appointments-plugin/">http://pluginhive.com/guide-woocommerce-bookings-appointments-plugin/</a>
 Why a booking site: <a href="http://pluginhive.com/turn-woocommerce-into-online-booking-website/">http://pluginhive.com/turn-woocommerce-into-online-booking-website/</a>
 
-== Installation ==
+## == Installation ==
 
 1. Upload the plugin folder to the '/wp-content/plugins/' directory.
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 
-== Frequently Asked Questions ==
+## == Frequently Asked Questions ==
 
-= Which type of businesses or services could use this plugin? =
+### = Which type of businesses or services could use this plugin? =
 All types of businesses or individuals who need to have a woocommerce bookings solution for their services or products can use this plugin. Some examples are Hotels, accommodations, guest house, service apartments, dog walkers, salons, doctors, lawyers, dentists, rental services, part equipment providers etc.
 
-= Can I convert my existing product/service to be bookable? =
+### = Can I convert my existing product/service to be bookable? =
 Yes, just change your woocommerce product type as "Bookable" after you install the plugin and its ready to be booked with just a few configurations. 
 
-= Is there an hourly booking option? =
+### = Is there an hourly booking option? =
 yes, the plugin comes with the ability to provide hourly as well as minutes based bookings. Additionally, you can have days or months based bookings as well as calendar range.
 
-= Is there a date range selection available? =
+### = Is there a date range selection available? =
 Yes
 
-= Is there an availability check? =
+### = Is there an availability check? =
 Yes, this plugin comes with an availability check. Users will not be able to book already booked slots.
 
-= Can I make some hours or minutes in a day non-bookable or non-working hours? For Eg: Lunchtime  =
+### = Can I make some hours or minutes in a day non-bookable or non-working hours? For Eg: Lunchtime  =
 Yes, you can set the non-working time. The user will not be able to book these hours.
 
-= Can I make Saturday or Sunday or both the days non-bookable? =
+### = Can I make Saturday or Sunday or both the days non-bookable? =
 Yes, you can set either or both of these days as non-bookable.
 
-== Screenshots ==
+## == Screenshots ==
 1. Fixed Period of 2 hours configuration
 2. Fixed Period of 2 hours
 3. Fixed Period of 90 mins configuration
@@ -157,7 +157,7 @@ Yes, you can set either or both of these days as non-bookable.
 12. Crt page
 13. Booking Order details
 
-== About dgc_network ==
+## == About dgc_network ==
 
 dgc_network is specialized in providing the most secure, stable, feature-rich and intuitive woocommerce extensions. We take pride in ourselves for having helped businesses across 55+ countries to propel to the next level.
 We are one of the top vendors specialized in the area of woocommerce shipping plugins at XAdapter.com and have over 50,000 active customers.
@@ -185,261 +185,7 @@ Our other Free Plugins :
 -<a href="//wordpress.org/plugins/woo-shipment-tracking-order-tracking/">WooCommerce Shipment Tracking Plugin</a>
 -<a href="//wordpress.org/plugins/dgc-royal-mail-woocommerce-shipping/">Woocommerce Royal Mail Shipping</a>
 
-== Upgrade Notice ==
-= 1.2.9 =
-* Fix : Fixed Time slot availability not loading properly in case of Time Calendar (Hours or Minute Booking).
+## == Upgrade Notice ==
 
-= 1.2.8 =
-* Improvement : Compatible with new jQuery versions
-* Improvement : Improved Plugin Update Functionality
-
-= 1.2.7 =
-* Improvement : Improved Spanish translation
-* Improvement : Minor UI changes
-
-= 1.2.6 =
-* Fix : Fixed Input Fileds not displaying properly on Checkout Page and Contact Form
-
-= 1.2.5 =
-* Feature : Booking Calendar UI Themes
-* Improvement : New and Improved UI
-
-= 1.2.4 =
-* Added language Support For German, Norwegian and Hebrew languages.
-* Enhancement : Improved Calendar designs.
-
-= 1.2.3 =
-* Fix :  The month was not changing in the calendar.
-* Fix :  Non-working days(Weekend) blocking month calendar.
-
-= 1.2.2 =
-* Plugin updater added
-
-= 1.2.1 =
-* Feature: Made Calendar Color Customizable.
-
-= 1.2.0 =
-* Fix: The weekdays in calendar and the text "Booked, Booked From, Booked To"  are not getting translated in Italian,Swedish,Dutch,Spanish and Portuguese.
-
-= 1.1.9 =
-* Enhancement: Speed optimisation in listing all bookings in the back end.
-* Minor Fix: Defaulting booking period to 1 day on product config page
-* Enhancement: Overlay with loading effect on changing the month
-* Enhancement: External plugins compatibility (WooCommerce Deposits and WooCommerce Product Add-ons)
-* Enhancement: Swedish Translation.
-* Enhancement : Time calendar with Days calendar for better user experience
-* Enhancement : Calendar to display the wordpress time format.
-* Fix: Sunday coming in next line in Day Calendar on some theme.
-* Fix: Enabled Tax column under general tab on product configuration page.
-
-= 1.1.8 =
-* Support languages Italian, Spanish and Portuguese.
-* Made configurable virtual and downloadable booking products
-* Fixed time zone issue on Time calendar.
-
-= 1.1.7 =
-* Fix: CSS issue on day calendar.
-* Tweak: Hide 'Non-working hours' for booking period day and month.
-
-= 1.1.6 =
-* Feature: Added Dutch language translation.
-* Tweak: Display the Booking info dates in WP date format.
-* Tweak: Filter for change add to cart message.
-* Tweak: Display the Booked Price with currency symbol.
-* Fix: Allow to continue with booking of next month without selecting a slot.
-
-= 1.1.5 =
-* Feature: Added French translation.
-* Fix: Book Now button clocking endlessly for some themes
-
-= 1.1.4 =
-* Standardized the CSS and JS codes.
-* Fix: Added missing texts to translation.
-
-= 1.1.3 =
-* Feature: Added Russian language translation.
-* Fix: Incorrect date is showing for some time zones.
-* Fix: Text domain name corrected.
-* Tweak: Standardized some CSS class names.
-
-= 1.1.2 =
-* Fix: PHP error appearing in the product page in some cases.
-
-= 1.1.1 =
-* Fix: In case of fixed period booking, on date selection date was showing one day behind for some time zone.
-
-= 1.1.0 =
-* Feature: Bookings List for admin
-* Fix: Conflict with premium version.
-* Fix: CSS conflict with some theme.
-
-
-= 1.0.11 =
-* Fix: Time callender is not getting updated on chaning the date.
-* Fix: PHP warning appearing on canceled order.
-
-= 1.0.10 =
-* Removed canceled orders on calender in frond end.
-
-= 1.0.9 =
-* Fix: Booking is not starting on first availabiity time.
-* Fix: Booking restart on end of non-available time.
-
-= 1.0.8 =
-* Fix: Date calender is not displaying properly on mobile view.
-
-= 1.0.7 =
-* Fix: PHP warning appearing in admin product page, if no any availability options set.
-* Showing proper message if trying to book non-available period.
-
-= 1.0.6 =
-* Feature: Allows the admin to set non-working hours.
-* Feature: Allows admin to set Saturday or Sunday or both as non-working days.
-
-= 1.0.5 =
-* Fix: Booking product options is not hiding for non-bookable products
-
-= 1.0.4 =
-* Fix: Some CSS issue on calendar
-
-= 1.0.3 =
-* Fix: Fatal error appearing in PHP 5.5 or older.
-
-= 1.0.2 =
-* Fix: issue on freezing available slot in case of from and to same.
-
-= 1.0.1 =
-* Fix: issue on showing available booked slots
-
-= 1.0.0 =
-* Initial version of plugin.
-
-== Changelog ==
-
-= 1.2.9 =
-* Fix : Fixed Time slot availability not loading properly in case of Time Calendar (Hours or Minute Booking).
-
-= 1.2.8 =
-* Improvement : Compatible with new jQuery versions
-* Improvement : Improved Plugin Update Functionality
-
-= 1.2.7 =
-* Improvement : Improved Spanish translation
-* Improvement : Minor UI changes
-
-= 1.2.6 =
-
-* Fix : Fixed Input Fileds not displaying properly on Checkout Page and Contact Form
-
-= 1.2.5 =
-* Feature : Booking Calendar UI Themes
-* Improvement : New and Improved UI
-
-= 1.2.4 =
-* Added language Support For German, Norwegian and Hebrew languages.
-* Enhancement : Improved Calendar designs.
-
-= 1.2.3 =
-* Fix : The month was not changing in the calendar.
-* Fix :  Non-working days(Weekend) blocking month calendar.
-
-= 1.2.2 =
-* Plugin updater added
-
-= 1.2.1 =
-* Feature: Made Calendar Color Customizable.
-
-= 1.2.0 =
-* Fix: The weekdays in calendar and the text "Booked, Booked From, Booked To"  are not getting translated in Italian,Swedish,Dutch,Spanish and Portuguese.
-
-= 1.1.9 =
-* Enhancement: Speed optimisation in listing all bookings in the back end.
-* Minor Fix: Defaulting booking period to 1 day on product config page
-* Enhancement: Overlay with loading effect on changing the month
-* Enhancement: External plugins compatibility (WooCommerce Deposits and WooCommerce Product Add-ons)
-* Enhancement: Swedish Translation.
-* Enhancement : Time calendar with Days calendar for better user experience
-* Enhancement : Calendar to display the wordpress time format.
-* Fix: Sunday coming in next line in Day Calendar on some theme.
-* Fix: Enabled Tax column under general tab on product configuration page.
-
-= 1.1.8 =
-* Support languages Italian, Spanish and Portuguese.
-* Made configurable virtual and downloadable booking products
-* Fixed time zone issue on Time calendar.
-
-= 1.1.7 =
-* Fix: CSS issue on day calendar.
-* Tweak: Hide 'Non-working hours' for booking period day and month.
-
-= 1.1.6 =
-* Feature: Added Dutch language translation.
-* Tweak: Display the Booking info dates in WP date format.
-* Tweak: Filter for change add to cart message.
-* Tweak: Display the Booked Price with currency symbol.
-* Fix: Allow to continue with booking of next month without selecting a slot.
-
-= 1.1.5 =
-* Feature: Added French translation.
-* Fix: Book Now button clocking endlessly for some themes
-
-= 1.1.4 =
-* Standardized the CSS and JS codes.
-* Fix: Added missing texts to translation.
-
-= 1.1.3 =
-* Feature: Added Russian language translation.
-* Fix: Incorrect date is showing for some time zones.
-* Fix: Text domain name corrected.
-* Tweak: Standardized some CSS class names.
-
-= 1.1.2 =
-* Fix: PHP error appearing in the product page in some cases.
-
-= 1.1.1 =
-* Fix: In case of fixed period booking, on date selection date was showing one day behind for some time zone.
-
-= 1.1.0 =
-* Feature: Bookings List for admin
-* Fix: Conflict with premium version.
-* Fix: CSS conflict with some theme.
-
-= 1.0.11 =
-* Fix: Time callender is not getting updated on chaning the date.
-* Fix: PHP warning appearing on canceled order.
-
-= 1.0.10 =
-* Removed canceled orders on calender in frond end.
-
-= 1.0.9 =
-* Fix: Booking is not starting on first availabiity time.
-* Fix: Booking restart on end of non-available time.
-
-= 1.0.8 =
-* Fix: Date calender is not displaying properly on mobile view.
-
-= 1.0.7 =
-* Fix: PHP warning appearing in admin product page, if no any availability options set.
-* Showing proper message if trying to book non-available period.
-
-= 1.0.6 =
-* Feature: Allows the admin to set non-working hours.
-* Feature: Allows admin to set Saturday or Sunday or both as non-working days.
-
-= 1.0.5 =
-* Fix: Booking product options is not hiding for non-bookable products
-
-= 1.0.4 =
-* Fix: Some CSS issue on calendar
-
-= 1.0.3 =
-* Fix: Fatal error appearing in PHP 5.5 or older.
-
-= 1.0.2 =
-* Fix: issue on freezing available slot in case of from and to same.
-
-= 1.0.1 =
-* Fix: issue on showing available booked slots
-
-= 1.0.0 =
+### = 1.0.0 =
 * Initial version of plugin.
