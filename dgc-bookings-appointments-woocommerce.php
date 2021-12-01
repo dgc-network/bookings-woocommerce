@@ -4,7 +4,7 @@
  * Description:	Bookings and Appointments solution for all types of businesses.
  * Version: 1.3.2
  * Author: dgc_network
- * Author URI: https://www.pluginhive.com/
+ * Author URI: https://dgc.network/
  * WC requires at least: 2.6
  * WC tested up to: 5.0.0
  * Text Domain: bookings-and-appointments-for-woocommerce
@@ -15,11 +15,11 @@
  */
 
 // Common class
-if( ! class_exists('Ph_Bookings_Plugin_Active_Check_For_Free') )
+if( ! class_exists('dgc_Bookings_Plugin_Active_Check_For_Free') )
 	include_once 'class-dgc-bookings-plugin-active-check.php';
 function dgc_booking_pre_activation_check_free_version(){
 	//check if premium version is there
-	if ( Ph_Bookings_Plugin_Active_Check_For_Free::plugin_active_check('dgc-bookings-appointments-woocommerce-premium/dgc-bookings-appointments-woocommerce-premium.php') ){
+	if ( dgc_Bookings_Plugin_Active_Check_For_Free::plugin_active_check('dgc-bookings-appointments-woocommerce-premium/dgc-bookings-appointments-woocommerce-premium.php') ){
 		deactivate_plugins( basename( __FILE__ ) );
 		wp_die(__("Is everything fine? You already have the Premium version installed in your website. For any issues, kindly raise a ticket via <a target='_blank' href='//pluginhive.com/support/'>pluginhive.com/support</a>",'bookings-and-appointments-for-woocommerce'), "", array('back_link' => 1 ));
 	}
@@ -28,7 +28,7 @@ function dgc_booking_pre_activation_check_free_version(){
 register_activation_hook( __FILE__, 'dgc_booking_pre_activation_check_free_version' );
 
 
-if ( Ph_Bookings_Plugin_Active_Check_For_Free::plugin_active_check( 'woocommerce/woocommerce.php') && !Ph_Bookings_Plugin_Active_Check_For_Free::plugin_active_check('dgc-bookings-appointments-woocommerce-premium/dgc-bookings-appointments-woocommerce-premium.php') ) {	
+if ( dgc_Bookings_Plugin_Active_Check_For_Free::plugin_active_check( 'woocommerce/woocommerce.php') && !dgc_Bookings_Plugin_Active_Check_For_Free::plugin_active_check('dgc-bookings-appointments-woocommerce-premium/dgc-bookings-appointments-woocommerce-premium.php') ) {	
 
 	class dgc_booking_initialze {
 

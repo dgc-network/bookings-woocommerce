@@ -2,8 +2,8 @@
 
 if( ! defined('ABSPATH') )	exit;
 
-if( ! class_exists('Ph_Bookings_Plugin_Active_Check_For_Free') ) {
-	class Ph_Bookings_Plugin_Active_Check_For_Free {
+if( ! class_exists('dgc_Bookings_Plugin_Active_Check_For_Free') ) {
+	class dgc_Bookings_Plugin_Active_Check_For_Free {
 
 		private static $active_plugins;
 
@@ -28,4 +28,4 @@ if( ! class_exists('Ph_Bookings_Plugin_Active_Check_For_Free') ) {
 
 	}
 }
-new Ph_Bookings_Plugin_Active_Check_For_Free();
+new dgc_Bookings_Plugin_Active_Check_For_Free();
