@@ -8,7 +8,7 @@ Stable tag: 1.3.2
 
 Woocommerce Bookings and appointments is a powerful plugin that allows you to convert your time, products or services etc into a bookable resource.
 
-== Description ==
+# == Description ==
 
 = Introduction =
 
