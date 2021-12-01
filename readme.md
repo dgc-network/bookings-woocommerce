@@ -36,30 +36,6 @@ Woocommerce bookings and appointments plugin provides the following features :
 	<li>Bookings List Page at the backend to view all your bookings in one place, filter the bookings based on product name, booking dates and booking status.</li>
 </ol>
 
-Great News : 
-
-This plugin is now available in Russian, Portuguese, Italian, Spanish, French, Dutch and Swedish.
-More languages to follow !
-
-
-Business cases for Woocommerce bookings plugin :
-
-<ol>
-	<li>Doctors could use this plugin as woocommerce appointments plugin</li>
-
-	<li>Lawyers could use this plugin as booking calendar</li>
-
-	<li>Salon and Spa services, Dog walkers etc could use this plugin as woocommerce services bookings</li>
-
-	<li>Serves as woocommerce accommodation bookings system</li>
-
-	<li>Serves as woocommerce hotel booking system</li>
-
-	<li>Serves as Guesthouse booking system</li>
-
-	<li>Serves as woocommerce rental booking system for bikes rentals, party equipment rentals etc</li>
-</ol>
-
 What more? the admin configurations are extremely simple and easy to follow, unlike other complex plugins. It works beautifully on a mobile as well.
 
 This woocommerce bookings plugin helps you start your online bookings in a few clicks and within a few minutes! So, empower your business with woocommerce bookings today.
